@@ -154,6 +154,7 @@ span{
 .main .product_types{
     display: flex;
     margin-bottom: 54px;
+    box-shadow: 0px 0px 70px 0px rgba(138, 138, 138, 0.10);
 }
 
 .main .product_types .product{
